@@ -1,0 +1,22 @@
+{
+  "name": "Testing yay",
+  "description": "just testing..",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "testing",
+    "yo"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "BowerNameTest": "bowernametestb#*"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "TestingYay",
+  "name": "bowernametestreq",
   "description": "just testing..",
   "main": "index.js",
   "moduleType": [],
@@ -17,6 +17,6 @@
     "tests"
   ],
   "dependencies": {
-    "BowerNameTest": "bowernametestb#*"
+    "bowernametestb": "bowernametestb#*"
   }
 }
